@@ -1,2 +1,2 @@
 # Visualization-Projects
-this contains all the viusalization projects from the basic until advanced
+this contains all the visualization projects from the basic until advanced
